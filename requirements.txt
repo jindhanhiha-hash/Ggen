@@ -1,0 +1,8 @@
+colorama
+cryptography
+PyJWT
+pycryptodome
+protobuf
+protobuf-decoder
+requests
+urllib3
